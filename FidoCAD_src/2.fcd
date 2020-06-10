@@ -1,0 +1,31 @@
+[FIDOCAD]
+FJC B 0.5
+MC 12 28 0 0 arduino.arnano
+MC 118 49 1 0 ey_libraries.pasres7
+FCJ
+TY 122 46 4 3 0 0 0 * Ri
+TY 122 51 4 3 0 0 0 * 1
+MC 93 48 0 1 ey_libraries.opaopa1
+FCJ
+TY 103 58 4 3 0 0 0 * 
+TY 100 46 4 3 0 0 0 * LM358
+MC 88 58 0 0 ey_libraries.refpnt4
+MC 93 33 1 0 ey_libraries.refpnt1
+FCJ
+TY 89 27 4 3 0 0 0 * +5В
+TY 103 38 4 3 0 0 0 * 
+LI 103 53 103 67 0
+LI 103 67 78 67 0
+LI 78 67 78 48 0
+LI 68 48 78 48 0
+SA 78 48 0
+MC 113 63 0 0 ey_libraries.refpnt4
+MC 128 43 2 0 ey_libraries.refpnt3
+MC 128 60 2 0 ey_libraries.refpnt3
+LI 118 63 118 59 0
+LI 123 60 118 60 0
+SA 118 60 0
+LI 118 43 123 43 0
+SA 118 43 0
+LI 113 43 102 43 0
+LI 113 43 117 43 0
